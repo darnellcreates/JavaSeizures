@@ -1,0 +1,24 @@
+a {
+    margin:20px;
+    padding:10px 15px;
+    background:blue;
+    border-radius:25px;
+    color:white;
+    display:inline-block;
+    text-decoration:none;
+}
+.activeRed {
+    background: red;
+    color:white;
+    font-size:18px;
+}
+.activeYellow {
+    background: yellow;
+    color:white;
+    font-size:18px;
+}
+.activeGreen {
+    background:green;
+    color:white;
+    font-size:18px;
+}
